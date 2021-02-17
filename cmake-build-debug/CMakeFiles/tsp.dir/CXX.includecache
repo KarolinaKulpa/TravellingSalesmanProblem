@@ -1,0 +1,46 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/Pulpit/Automatyka i Robotyka/Semestr III/Informatyka 2/tsp/main.cpp
+iostream
+-
+tsp.hpp
+D:/Pulpit/Automatyka i Robotyka/Semestr III/Informatyka 2/tsp/tsp.hpp
+tsp.cpp
+D:/Pulpit/Automatyka i Robotyka/Semestr III/Informatyka 2/tsp/tsp.cpp
+
+D:/Pulpit/Automatyka i Robotyka/Semestr III/Informatyka 2/tsp/tsp.cpp
+tsp.hpp
+D:/Pulpit/Automatyka i Robotyka/Semestr III/Informatyka 2/tsp/tsp.hpp
+iostream
+-
+vector
+-
+string
+-
+limits
+-
+cmath
+-
+utility
+-
+
+D:/Pulpit/Automatyka i Robotyka/Semestr III/Informatyka 2/tsp/tsp.hpp
+iostream
+-
+vector
+-
+string
+-
+limits
+-
+cmath
+-
+utility
+-
+
